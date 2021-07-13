@@ -1,0 +1,18 @@
+{  
+    "App":{
+        "App_name" : "SIRM - ",
+        "App_server" : "/SistemRekamMedis/",
+        "App_import" : "/SistemRekamMedis/asset/",
+        "App_files" : "/SistemRekamMedis/files/"
+    },
+    
+    
+    "Database":{
+        "DB_driver": "mysql",
+        "DB_name" : "db_rekam_medis",
+        "DB_port" : 3306,
+        "DB_host" :"localhost",
+        "DB_user" :"root",
+        "DB_password" :""
+    }
+}
